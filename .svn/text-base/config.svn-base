@@ -1,0 +1,42 @@
+[server]
+url = http://192.168.1.45/psp/xmlrpc.php
+[file]
+delimiter = ;
+enclosure = '"'
+batchsize = 100
+default_category = 53
+user_per_batch = 10
+[paths]
+queue = D:/DEV_PY/PSPCrawler/p_queue/
+processed = D:/DEV_PY/PSPCrawler/p_processed/
+names = D:/DEV_PY/PSPCrawler/names
+[taringa]
+banned = taringa, " Poringa", " taringueros"
+[[categories]]
+37 = "",
+136 = "",
+52 = "",
+53 = "",
+48 = "",
+49 = "",
+46 = "",
+47 = "",
+45 = "",
+42 = "",
+43 = "",
+40 = "",
+41 = "",
+2400 = "",
+2401 = "",
+39 = "",
+96 = Mascotas, perros, gatos
+13 = Arte, Pintura
+38 = "",
+15 = "",
+14 = "",
+33 = "",
+32 = "",
+51 = "",
+50 = "",
+35 = "",
+34 = "",

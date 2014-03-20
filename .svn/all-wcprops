@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/psp_crawler/!svn/ver/4/PSPCrawler
+END
+names
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/psp_crawler/!svn/ver/4/PSPCrawler/names
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/psp_crawler/!svn/ver/2/PSPCrawler/.project
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/psp_crawler/!svn/ver/4/PSPCrawler/config
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/psp_crawler/!svn/ver/4/PSPCrawler/test.py
+END
+psp_processor.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/psp_crawler/!svn/ver/4/PSPCrawler/psp_processor.py
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/psp_crawler/!svn/ver/2/PSPCrawler/.pydevproject
+END
